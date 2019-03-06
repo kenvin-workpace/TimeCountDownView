@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimeCountDownView</string>
+
+    <string name="action_settings">开始</string>
+</resources>

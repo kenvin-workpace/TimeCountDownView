@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TimeCountDownView">
+        <attr name="time_dail_color" format="color|integer"/>
+        <attr name="time_time_color" format="color|integer"/>
+
+        <attr name="time_margin" format="integer"/>
+        <attr name="time_arc_width" format="integer"/>
+        <attr name="time_text_width" format="integer"/>
+        <attr name="time_hour_height" format="integer"/>
+        <attr name="time_mius_height" format="integer"/>
+    </declare-styleable>
+
+
+</resources>
